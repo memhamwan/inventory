@@ -6,7 +6,7 @@ labels: receiving
 assignees: ''
 
 ---
-
+<!-- This description should include the relevant details that define an inventory item. Don't mention it's state though (like "receiving" -- that should instead be indicated using labels). -->
 # Vendor
 
 Streakwave
